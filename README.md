@@ -32,3 +32,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saktisriraj&theme=dark" alt="saktisriraj" /></p>
 
 
+
+[![Sakti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaktiSriraj&bg_color=150e15&color=fffade&line=4a336e&point=b0a8b9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
