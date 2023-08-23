@@ -5,9 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saktisriraj&label=Profile%20views&color=b4980e&style=flat" alt="saktisriraj" /> </p>
 
+- 🔭 I’m currently working on **DataStructures-and-Algorithms and Striver-SDE-Sheet**
+
 - 🌱 I’m currently learning **MongoDB and Spring Framework**
 
-- 💬 Ask me about **JAVA, C, Python, and anything Tech related.**
+- 💬 Ask me about **JAVA, C, Python, and anything Tech-related**
 
 - 📫 Drop a mail at **saktisriraj.0214@gmail.com**
 
@@ -15,7 +17,7 @@
 
 - ⌛ Moonlighting **Photography & Photo-editing**
  
-</br></br>
+</br>
 
 ## 🖥️Tech Stack:
 
@@ -23,16 +25,25 @@
 
 </br>
 
-## 📊GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saktisriraj&show_icons=true&theme=onedark&locale=en&layout=compact" alt="saktisriraj" /></p>
+# 📊 GitHub Stats:
+<div align = "center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saktisriraj&show_icons=true&theme=onedark&locale=en" alt="saktisriraj" /></p>
+![](https://github-readme-stats.vercel.app/api?username=saktisriraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true) &ensp;&ensp;
+![](https://github-readme-streak-stats.herokuapp.com/?user=saktisriraj&theme=dark&hide_border=false)<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saktisriraj&theme=dark" alt="saktisriraj" /></p>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saktisriraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&)
 
 
 ![Sakti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaktiSriraj&bg_color=150e15&color=fffade&line=4a336e&point=b0a8b9&area=true&hide_border=true)
+
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+ 
+![](https://github-profile-trophy.vercel.app/?username=saktisriraj&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 ## 🤝 Connect With Me:
 
