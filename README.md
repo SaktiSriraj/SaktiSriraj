@@ -22,7 +22,7 @@
 
 </br>
 
-## GitHub Stats:
+## 📊GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saktisriraj&show_icons=true&theme=onedark&locale=en&layout=compact" alt="saktisriraj" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saktisriraj&show_icons=true&theme=onedark&locale=en" alt="saktisriraj" /></p>
