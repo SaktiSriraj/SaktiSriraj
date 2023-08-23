@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **MongoDB and Spring Framework**
 
-- 💬 Ask me about **JAVA, C, HTML, CSS, JS, Python**
+- 💬 Ask me about **JAVA, C, Python, and anything Tech related.**
 
 - 📫 Drop a mail at **saktisriraj.0214@gmail.com**
 
 - ⚡ Fun fact **I dabble in photography, but only on the side – my main gig is still avoiding bugs in the code!**
 
-
+- ⌛ Moonlighting **Photography & Photo-editing**
  
 </br></br>
 
