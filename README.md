@@ -3,7 +3,7 @@
 <h3 align="center">An enthusiastic front-end developer hailing from India, presently diving into the realm of Java frameworks with aspirations of becoming a proficient Java Developer in the imminent horizon</h3>
 <img align="right" alt="codes" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saktisriraj&label=Profile%20views&color=b4980e&style=flat" alt="saktisriraj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saktisriraj&label=Profile%20views&color=b4980e&style=flat" alt="saktisriraj" /> </p></br>
 
 - 🔭 I’m currently working on **DataStructures-and-Algorithms and Striver-SDE-Sheet**
 
