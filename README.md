@@ -5,13 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saktisriraj&label=Profile%20views&color=b4980e&style=flat" alt="saktisriraj" /> </p>
 
-- 🌱 I’m currently learning **MongoDB, Spring Framework, React Framework as well as Figma**
+- 🌱 I’m currently learning **MongoDB and Spring Framework**
 
 - 💬 Ask me about **JAVA, C, HTML, CSS, JS, Python**
 
-- 📫 How to reach me **saktisriraj.0214@gmail.com**
+- 📫 Drop a mail at **saktisriraj.0214@gmail.com**
 
-- ⚡ Fun fact **I'm convinced that my code runs on a special blend of coffee and late-night pizza grease – the essential fuels of any Java developer's genius!**
+- ⚡ Fun fact **I dabble in photography, but only on the side – my main gig is still avoiding bugs in the code!**
+
 
  
 </br></br>
@@ -33,7 +34,7 @@
 
 ![Sakti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaktiSriraj&bg_color=150e15&color=fffade&line=4a336e&point=b0a8b9&area=true&hide_border=true)
 
-## 🤝 Connect
+## 🤝 Connect With Me:
 
 [![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakti-sriraj-mishra/)
 [![Skill](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SaktiSriraj)
