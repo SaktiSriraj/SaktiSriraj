@@ -28,10 +28,11 @@
 # 📊 GitHub Stats:
 <div align = "center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saktisriraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&)</br>
+
 
 ![](https://github-readme-stats.vercel.app/api?username=saktisriraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true) </br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saktisriraj&theme=dark&hide_border=false)</br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saktisriraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&)</br>
 
 
 ![Sakti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaktiSriraj&bg_color=150e15&color=fffade&line=4a336e&point=b0a8b9&area=true&hide_border=true)
@@ -40,11 +41,13 @@
 </br>
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
  
 ![](https://github-profile-trophy.vercel.app/?username=saktisriraj&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 </div>
 </br>
+
 ## 🤝 Connect With Me:
 
 [![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakti-sriraj-mishra/)
