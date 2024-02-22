@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saktisriraj&label=Profile%20views&color=b4980e&style=flat" alt="saktisriraj" /> </p>
 
-- 🔭 I’m currently working on **DataStructures-and-Algorithms and Striver-SDE-Sheet**
+- 🔭 I’m currently working on **Blogging Website**
 
-- 🌱 I’m currently learning **MongoDB and Spring Framework**
+- 🌱 I’m currently learning **SpringBoot**
 
-- 💬 Ask me about **JAVA, C, Python, and anything Tech-related**
+- 💬 Ask me about **JAVA, Python, and anything Tech-related**
 
-- 📫 Drop a mail at **saktisriraj.0214@gmail.com**
+- 📫 Drop a mail at **saktisrirajmishra@gmail.com**
 
 - ⚡ Fun fact **I dabble in photography, but only on the side – my main gig is still avoiding bugs in the code!**
 
