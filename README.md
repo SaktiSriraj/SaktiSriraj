@@ -1,6 +1,6 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋🏻, I'm Sakti Sriraj Mishra</h1>
-<h3 align="center">I am an enthusiastic front-end developer, presently diving into the realm of Java frameworks with aspirations of becoming a proficient Java Developer in the imminent horizon. I love exploring and creating.</h3>
+<h3 align="center">I am a newbie JAVA developer, presently diving into the realm of Java frameworks with aspirations of becoming a proficient Java Developer in the imminent horizon. I love exploring and creating.</h3>
 <img align="right" alt="codes" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saktisriraj&label=Profile%20views&color=b4980e&style=flat" alt="saktisriraj" /> </p>
