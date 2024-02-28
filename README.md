@@ -34,13 +34,14 @@
 </br>
 
 # 📊 GitHub Stats:
-<div>
+<div align="center">
 
 
 
 ![](https://github-readme-stats.vercel.app/api?username=saktisriraj&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saktisriraj&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saktisriraj&theme=dark&hide_border=true)
+![](https://github-contributor-stats.vercel.app/api?username=saktisriraj&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saktisriraj&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 ![Sakti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaktiSriraj&bg_color=150e15&color=fffade&line=4a336e&point=b0a8b9&area=true&hide_border=true)
@@ -50,11 +51,6 @@
 </div>
 </br>
 
-## 🔝 Top Contributed Repo
-<div align="center">
- 
-![](https://github-contributor-stats.vercel.app/api?username=saktisriraj&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</div>
 
 ## 🏆 GitHub Trophies
 
