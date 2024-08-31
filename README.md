@@ -12,11 +12,11 @@
 [![](https://visitcount.itsvg.in/api?id=saktisriraj&icon=2&color=12)](https://visitcount.itsvg.in)
 
 
-- 🔭 I’m currently working on **Blogging Website**
+- 🔭 I’m currently working on **Spotify Clone**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **JAVA, Python, and anything Tech-related**
+- 💬 Ask me about **Java, React, Spring Framework, and anything Tech-related**
 
 - 📫 Drop a mail at **saktisrirajmishra@gmail.com**
 
