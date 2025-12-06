@@ -1,69 +1,131 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+
 <h1 align="center">Hi 👋🏻, I'm Sakti Sriraj Mishra</h1>
-<h3 align="center">I am a newbie JAVA developer, presently diving into the realm of Java frameworks with aspirations of becoming a proficient Java Developer in the imminent horizon. I love exploring and creating.</h3>
-<img align="right" alt="codes" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
+<h3 align="center">
+AI Engineer | Agentic AI Architect | GenAI & Automation Specialist
+</h3>
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)  
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 <br/>
 
 [![](https://visitcount.itsvg.in/api?id=saktisriraj&icon=2&color=12)](https://visitcount.itsvg.in)
 
+---
 
-- 🔭 I’m currently working on **Spotify Clone**
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Next JS**
+- 🧠 **AI Engineer specialized in Agentic AI, LangGraph workflows & RAG systems**
+- 🤖 Building **LLM-powered autonomous agents, tool-using bots & AI copilots**
+- 🔁 Designed **multi-agent workflows with memory, tools & reasoning graphs**
+- 🔍 Expert in **RAG pipelines, vector search, embeddings & hybrid retrieval**
+- ⚡ Strong background in **automation, scraping, data pipelines & full-stack systems**
+- 👨‍🏫 Web Technology Mentor & AI Systems Builder
 
-- 💬 Ask me about **Java, React, Spring Framework, and anything Tech-related**
+---
 
-- 📫 Drop a mail at **saktisrirajmishra@gmail.com**
+- 🔭 Currently working on **Production-grade Agentic AI & Automation Platforms**
+- 🧩 Building with **LangGraph, LangChain, OpenAI, HuggingFace & Vector DBs**
+- 💬 Ask me about **Agents, RAG, LLM optimization, AI automation & system design**
+- 📫 Reach me at **saktisrirajmishra@gmail.com**
+- ⚡ Fun fact: **I think in DAGs, not in straight lines**
+- 📸 Moonlighting: **Photography & Creative Editing**
 
-- ⚡ Fun fact **I dabble in photography, but only on the side – my main gig is still avoiding bugs in the code!**
+---
 
-- ⌛ Moonlighting **Photography & Photo-editing**
- 
-</br>
+## 🧠 Core Expertise
 
-## 🖥️Tech Stack:
+- ✅ **Agentic AI Architectures (LangGraph, LangChain Agents)**
+- ✅ **Retrieval-Augmented Generation (RAG)**
+- ✅ **Multi-tool LLM Orchestration**
+- ✅ **Web Scraping → Embeddings → Search → LLM Pipelines**
+- ✅ **Autonomous Task Automation Systems**
+- ✅ **Full-Stack AI Application Development**
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=plastic&logo=SemanticUIReact&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white)
+---
 
+## 🧠 Tech Stack
 
-</br>
+### 🟦 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23000000.svg?style=plastic&logo=mysql&logoColor=white)
 
-# 📊 GitHub Stats:
+---
+
+### 🤖 Agentic AI / GenAI
+![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=plastic)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=plastic)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=plastic&logo=openai)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=plastic&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-System-blue?style=plastic)
+![FAISS](https://img.shields.io/badge/FAISS-005571?style=plastic)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6C37?style=plastic)
+
+---
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite)
+
+---
+
+### 🛠 Backend, Automation & Orchestration
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=plastic&logo=spring)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=plastic)
+
+---
+
+### 🗄️ Databases & Cloud
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=plastic&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws)
+
+---
+
+### ⚙️ DevOps, Tooling & Productivity
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman)
+![Git](https://img.shields.io/badge/git-F05032?style=plastic&logo=git)
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=plastic&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion)
+
+---
+
+# 📊 GitHub Stats
+
 <div align="center">
-
-
 
 ![](https://github-readme-stats.vercel.app/api?username=saktisriraj&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saktisriraj&theme=dark&hide_border=true)
-![](https://github-contributor-stats.vercel.app/api?username=saktisriraj&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saktisriraj&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saktisriraj&theme=dark&hide_border=true&layout=compact)
 
 ![Sakti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaktiSriraj&bg_color=150e15&color=fffade&line=4a336e&point=b0a8b9&area=true&hide_border=true)
 
-
-
 </div>
-</br>
 
+---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies <div align="center"> 
+![](https://github-profile-trophy.vercel.app/?username=saktisriraj&theme=onedark&no-frame=false&no-bg=true&margin-w=4) </div> </br>
 
-<div align="center">
- 
-![](https://github-profile-trophy.vercel.app/?username=saktisriraj&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-</div>
-</br>
+---
 
 ## 🤝 Connect With Me:
 
 [![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakti-sriraj-mishra/)
-[![Skill](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SaktiSriraj)
+[![Skill](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shipsfailure)
 [![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaktiSriraj)
 [![Skill](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saktisriraj/)
 
