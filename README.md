@@ -117,11 +117,6 @@ AI Engineer | Agentic AI Architect | GenAI & Automation Specialist
 
 ---
 
-## 🏆 GitHub Trophies <div align="center"> 
-![](https://github-profile-trophy.vercel.app/?username=saktisriraj&theme=onedark&no-frame=false&no-bg=true&margin-w=4) </div> </br>
-
----
-
 ## 🤝 Connect With Me:
 
 [![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakti-sriraj-mishra/)
